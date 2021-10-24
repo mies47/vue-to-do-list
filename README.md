@@ -41,9 +41,11 @@
     <a href="https://github.com/mies47/vue-to-do-list"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mies47/vue-to-do-list">View Demo</a>
+    <a href="https://vigorous-heisenberg-36bb49.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/mies47/vue-to-do-list/issues">Report Bug</a>
+    ·
+    <a href="https://mies47.github.io/vue-to-do-list/">Github Pages</a>
     ·
     <a href="https://github.com/mies47/vue-to-do-list/issues">Request Feature</a>
   </p>
